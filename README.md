@@ -55,7 +55,7 @@ Contact
 <i class="fa fa-linkedin"></i> <a href="[https://www.linkedin.com/in/mehdi-kbbj/]">linkedin.com/in/mehdi-kbbj</a>
 
 
-<i class="fa fa-map-marker-alt"></i> <a href="https://www.seattletimes.com/seattle-news/flying-fish-fries-power-for-dozens-of-seattle-city-light-customers/" target="_blank">Lille, France</a>
+<i class="fa fa-map-marker-alt"></i> <a href="https://www.lavoixdunord.fr/1227488/article/2022-09-12/lille-encore-trois-stations-total-sur-cinq-l-arret-ce-lundi/" target="_blank">Lille, France</a>
 
 <i>View html with links at my github: 
 
