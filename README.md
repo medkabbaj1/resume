@@ -1,7 +1,7 @@
 # resume
 ---
-title: "Bo Olson"
-author: Bo Olson
+title: "El Mehdi Kabbaj"
+author: El Mehdi Kabbaj
 output: 
   pagedown::html_resume:
     css: ['resume_css.css', 'resume']
@@ -45,29 +45,28 @@ data %>% ggplot(aes(x =density, y = as.factor(label), fill = factor(label))) +
 
 ::: aside
 
-Contact {#contact}
+Contact 
 --------------------------------------
 
-<i class="fa fa-envelope"></i> bo.olson@gmail.com
+<i class="fa fa-envelope"></i> mehdi.kabbaj10@gmail.com
 
-<i class="fa fa-phone"></i> 847.224.4208
+<i class="fa fa-phone"></i> 0620536801
 
-<i class="fa fa-linkedin"></i> <a href="https://linkedin.com/in/OlsonBo">linkedin.com/in/OlsonBo</a>
+<i class="fa fa-linkedin"></i> <a href="[https://www.linkedin.com/in/mehdi-kbbj/]">linkedin.com/in/mehdi-kbbj</a>
 
-<!-- hope you like my joke -->
 
 <i class="fa fa-map-marker-alt"></i> <a href="https://www.seattletimes.com/seattle-news/flying-fish-fries-power-for-dozens-of-seattle-city-light-customers/" target="_blank">Seattle, WA</a>
 
 <i>View html with links at my github: 
 
-https://github.com/bo-olson/cv/ </i>
+https://github.com/medkabbaj1) </i>
 
 
-Technical Skills {#skills}
+Technical Skills
 ---------------------------------------
 
 ```{r skill plot, fig.height=15, fig.width=10}
-skill<-c("R", "SQL", "Azure Platform & ETL", "Databricks & Spark", "Python", "Data Visualization (ggplot / PowerBI)", "HTML & CSS")
+skill<-c("R", "SQL", "Pythone", "Data Visualization (ggplot / PowerBI)", "github", "HTML & CSS", "Trading")
 level<-c(10,10,10,7,6,10,5)
 wes <- wesanderson::wes_palette("Royal1", type = "continuous", n=6)
 skills <- data_frame(skill = skill,
@@ -95,31 +94,22 @@ skills %>% ggplot(aes(reorder(skill, level), level)) +
 Interests
 ---------------------------------------
 
-Avid fly fisher, outdoor wanderer, dog walker, whitewater rower, guitar picker, and poem reader.
+Personal development - Travelling – Fitness - Following economic current events - Learning Data
 
 
 
-Disclaimer
----------------------------------------
-
-Built using the awesome <a href="https://github.com/rstudio/pagedown#resume-pagedownhtml_resume">pagedown</a> package
-
-See the source code on my <a href="https://github.com/bo-olson/cv/">github</a>
-
-
-:::
 
 Main
 =======================================
 
-Bo Olson {#title}
+El Mehdi Kabbaj
 ---------------------------------------
 
-I'm an applied data scientist and analyst with strong data engineering skills, a creative mind for building enterprise-level ML solutions, coaching data literacy, and an obsession with communicating results beautifully. 
+Creative, responsible and self-taught graduate in international finance with excellent problem-solving and communication skills with an obsession to deliver results beautifully. The last two years have been experiencing, I didn't succeed to find a job in my field of studies. I spent the last two years working as a manager in a restaurant, at the same time learning about financial markets and data.
 
-I'm experienced in driving a data team from descriptive to prescriptive analytics, and bringing stakeholders along for the journey. 
+I lack experience in the field, but i recognise my determination, my work ethic and my capacity to learn is what going to differentiate from other candidates.
 
-Experience {data-icon=briefcase}
+Experience 
 --------------------------------------------------------------------------------
 
 ### <i class="fa fa-chart-area"></i> Microsoft 
