@@ -67,7 +67,7 @@ Technical Skills
 
 ```{r skill plot, fig.height=15, fig.width=10}
 skill<-c("R", "SQL", "Pythone", "Data Visualization (ggplot / PowerBI)", "github", "HTML & CSS", "Trading")
-level<-c(10,10,10,7,6,10,5)
+level<-c(7,8,6,6,6,7,8)
 wes <- wesanderson::wes_palette("Royal1", type = "continuous", n=6)
 skills <- data_frame(skill = skill,
                      level = level)
