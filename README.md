@@ -55,7 +55,7 @@ Contact
 <i class="fa fa-linkedin"></i> <a href="[https://www.linkedin.com/in/mehdi-kbbj/]">linkedin.com/in/mehdi-kbbj</a>
 
 
-<i class="fa fa-map-marker-alt"></i> <a href="https:https://www.google.fr/maps/place/Lille/@50.6305645,3.0698641,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPfdBdwQn7gO35ZNseS7kzIeIZQtwBlysCjA2w9!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPfdBdwQn7gO35ZNseS7kzIeIZQtwBlysCjA2w9%3Dw114-h86-k-no!7i4032!8i3024!4m5!3m4!1s0x47c2d579b3256e11:0x40af13e81646360!8m2!3d50.62925!4d3.057256">Lille, France</a>
+<i class="fa fa-map-marker-alt"></i> <a href="https:https://www.google.fr/maps/place/Lille/@50.6305645,3.0698641,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPfdBdwQn7gO35ZNseS7kzIeIZQtwBlysCjA2w9!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPfdBdwQn7gO35ZNseS7kzIeIZQtwBlysCjA2w9%3Dw114-h86-k-no!7i4032!8i3024!4m5!3m4!1s0x47c2d579b3256e11:0x40af13e81646360!8m2!3d50.62925!4d3.057256"/target="_blank">Lille, France</a>
 
 <i>View html with links at my github: 
 
