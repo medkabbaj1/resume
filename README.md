@@ -52,7 +52,7 @@ Contact
 
 <i class="fa fa-phone"></i> 0620536801
 
-<i class="fa fa-linkedin"></i> <a href="[https://www.linkedin.com/in/mehdi-kbbj/]">linkedin.com/in/mehdi-kbbj</a>
+<i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/mehdi-kbbj">linkedin.com/in/mehdi-kbbj</a>
 
 
 <i class="fa fa-map-marker-alt"></i> <a href="https://www.onzemondial.com/ligue-1/2020-2021/lille-les-images-folles-de-la-celebration-du-titre-avec-les-supporters-en-delire-629723">Lille, France</a>
