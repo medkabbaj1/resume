@@ -1,4 +1,3 @@
-# resume
 ---
 title: "El Mehdi Kabbaj"
 author: El Mehdi Kabbaj
@@ -11,34 +10,44 @@ editor_options:
 ---
 
 ```{r global options, include = FALSE}
+
 knitr::opts_chunk$set (echo = FALSE, warning = FALSE, message = FALSE, dev.args=list(bg="transparent"))
+
 ```
 
 ```{r libraries used }
+
 library(pagedown)
 library(tidyverse)
 library(ggridges)
 library(wesanderson)
 library(viridis)
+
 ```
 
 
 <div class = "densityplot">
 
 ```{r fun density plot, fig.height=.5, fig.width=2, fig.align='right'}
+  
+  
 wes <- wesanderson::wes_palette("Royal1", type = "continuous", n=12)
+       
 data <- data_frame(label = 1, density = c(rnorm(100, mean = 7))) %>% 
           union(data_frame(label = 5, density = c(rnorm(100, mean = 6)))) %>% 
           union(data_frame(label = 6, density = c(rnorm(100, mean = 5)))) %>% 
           union(data_frame(label = 7, density = c(rnorm(100, mean = 4)))) %>% 
           union(data_frame(label = 8, density = c(rnorm(100, mean = 3)))) %>% 
           union(data_frame(label = 9, density = c(rnorm(100, mean = 2)))) 
+  
 data %>% ggplot(aes(x =density, y = as.factor(label), fill = factor(label))) + 
                   geom_density_ridges(scale = 2, height =.5, color = "#D5DCBC") + 
                       scale_fill_manual(values = wes)+
                       theme_void()+
                       theme(legend.position = "none",
                             panel.background = element_rect(fill = "transparent", color = NA))
+  
+  
 ```
 
 </div>
@@ -54,7 +63,7 @@ Contact
 
 <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/mehdi-kbbj">linkedin.com/in/mehdi-kbbj</a>
 
-
+<!-- hope you like my joke -->
 <i class="fa fa-map-marker-alt"></i> <a href="https://www.onzemondial.com/ligue-1/2020-2021/lille-les-images-folles-de-la-celebration-du-titre-avec-les-supporters-en-delire-629723">Lille, France</a>
 
 <i>View html with links at my github: 
@@ -62,15 +71,18 @@ Contact
 https://github.com/medkabbaj1) </i>
 
 
+
 Technical Skills
 ---------------------------------------
 
 ```{r skill plot, fig.height=15, fig.width=10}
+
 skill<-c("R", "SQL", "Pythone", "Data Visualization (ggplot / PowerBI)", "github", "HTML & CSS", "Trading")
 level<-c(7,8,6,6,6,7,8)
 wes <- wesanderson::wes_palette("Royal1", type = "continuous", n=6)
 skills <- data_frame(skill = skill,
                      level = level)
+                     
 skills %>% ggplot(aes(reorder(skill, level), level)) + 
               geom_col(aes(fill = wes[[2]])) + 
                 coord_flip() +
