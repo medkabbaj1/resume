@@ -122,19 +122,35 @@ Creative, responsible and self-taught graduate in international finance with exc
 
 I lack experience in the field, but i recognise my determination, my work ethic and my capacity to learn is what going to differentiate from other candidates.
 
-Experience 
+Education
 --------------------------------------------------------------------------------
 
-### <i class="fa fa-chart-area"></i> Microsoft 
+2018- 2020: M2 (Second year of Master’s Degree) in International Finance – IAE METZ School of MANAGEMENT, Metz, France.
+2017- 2018: M1 (First year of Master’s Degree) in Finance, Control, Accounting - IAE METZ School of MANAGEMENT, Metz, France
+2016- 2017: Bachelor’s Degree in Accounting - IAE METZ School of MANAGEMENT, Metz, France.
+2014- 2016: Preparatory classes HEC – CPGE Omar El Khayyam, Rabat – Morocco.
 
-Senior Marketing Analytics Manager: US Central Marketing Organization
+Main Courses : 
+--------------------------------------------------------------------------------
 
-Bellevue, WA
+Financial Markets: Forex, commodities, stock market, bond market and Investments decisions.
+Treasury management: Asset liability management (ALM), Risk management, Banking regulations.
+Fund management: Portfolio management strategies, Performance analysis via R studio, Equity investments, Compliance.
+Accounting: Balance Sheet, Cash Flow Statements, Income Statements, IFRS financial instruments.
+Data Analysis : Reviews of data to identify key insights via SQL and Showcase the results on Microsoft Power BI.
 
-Current - 2016
+Experience : 
+--------------------------------------------------------------------------------
+### <i class="fa fa-chart-area"></i> Cunipic
 
-- Development of enterprise machine learning solutions for US field marketing:
-  + Identified key KPIs and built ML-based marketing engagement targets to provide USCMO with intelligent goals designed to directly impact revenue, presented in real-time reports used in daily RoB. (<i>What does good look like?</i> I can help with that!)
+Export Assistant: 
+
+Lleida, Spain
+
+01/2020 - 06/2020
+
+- The management of the French market :
+  + Sales and forecasting oversight by converting data from Excel into data series on Power BI
   + Real-time marketing program recommendations at the account level driven by custom models, optimized to drive marketing impact on revenue by 2x - 5x
   + Built, deployed and maintained production models using clustering, linear models, boosted trees, as well as custom implementations to directly address the relevant business problem at hand
   + Developed spend optimization and causal inference models to measure successful customer investment funds and provide real-time recommendations on spend, working across multiple disciplines and teams
@@ -155,23 +171,6 @@ Seattle, WA
   + Built and managed 30+ PowerBI dashboards to measure success
   + Development and management of SSIS, SSAS, PowerBI stack
 
-
-### <i class="fa fa-book-open"></i> Amazon
-
-Site Merchandiser - Books
-
-Seattle, WA
-
-2014 - 2013
-
-- Owned marketing program strategy for a "Big 5" publisher account, helped generate MM dollar growth of +20% YoY
-- Data analysis, modeling, customer behavior testing
-- Workflow modeling and marketing automation improvements to generate team-wide time savings of over 200hrs / month
-- Merchandising strategy for high-traffic specialty stores & seasonal events
-
-### <i class="fa fa-coffee"></i> The Tea Spot
-
-Director of Sales
 
 Boulder, CO
 
